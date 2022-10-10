@@ -1,0 +1,5 @@
+.env
+*.mkv
+/out
+!/out/java.log
+.gitignoredddddf
